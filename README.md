@@ -40,12 +40,13 @@ Compiling, Training, and Evaluating the Model
 
 
 
-    * When adding a third layer and then going back into Relu.  After underfitting the model with two layers it came out to an accuracy of 72.83%.
+    * When adding a third layer and then going back into Relu.
+     After underfitting the model with two layers it came out to an accuracy of 72.83%.
 
 
 
 
-    *  Then with using less hidden layer neurons it came out with an accuracy of 72.93%.
+    * Then with using less hidden layer neurons it came out with an accuracy of 72.93%.
 
 
 
