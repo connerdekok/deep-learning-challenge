@@ -38,17 +38,20 @@ Compiling, Training, and Evaluating the Model
     * When using the Tanh activation function it helps pass through values that include negative values while Relu excludes all negative values.  With Tanh it was an accuracy 72.82%.
 
 
+![Capture](https://github.com/user-attachments/assets/ccd9baac-23c6-414e-9bca-30c1f18f480d)
 
 
     * When adding a third layer and then going back into Relu.
      After underfitting the model with two layers it came out to an accuracy of 72.83%.
 
 
+![capture 2](https://github.com/user-attachments/assets/08f94f3f-7f72-4bd6-a5c3-cae288a0d645)
 
 
     * Then with using less hidden layer neurons it came out with an accuracy of 72.93%.
 
 
+![Capture3](https://github.com/user-attachments/assets/cc02b893-bb80-4bce-99c4-98d2d7b35cab)
 
 
 
